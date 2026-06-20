@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nama": "Andi",
+    "jurusan": "Teknik Informatika"
+  },
+  {
+    "id": 2,
+    "nama": "Budi",
+    "jurusan": "Sistem Informasi"
+  },
+  {
+    "id": 3,
+    "nama": "Pras",
+    "jurusan": "Ilmu Komputer"
+  }
+]
